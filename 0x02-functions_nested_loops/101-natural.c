@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <main.h>
 
 
 	/**
@@ -24,5 +24,3 @@
 
 		return (0);
 	}
-
-
